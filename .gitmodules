@@ -1,0 +1,3 @@
+[submodule "softwares/EvoEF2"]
+	path = softwares/EvoEF2
+	url = https://github.com/tommyhuangthu/EvoEF2.git
